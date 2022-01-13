@@ -16,6 +16,7 @@ namespace BankAccountNS
         {
             m_customerName = customerName;
             m_balance = balance;
+			string s = "";
         }
 
         public string CustomerName

@@ -1,7 +1,6 @@
 C:\Users\wave\source\repos\UnitTestProject1\WinFormTest\bin\Debug\WinFormTest.exe.config
 C:\Users\wave\source\repos\UnitTestProject1\WinFormTest\bin\Debug\WinFormTest.exe
 C:\Users\wave\source\repos\UnitTestProject1\WinFormTest\bin\Debug\WinFormTest.pdb
-C:\Users\wave\source\repos\UnitTestProject1\WinFormTest\obj\Debug\WinFormTest.csproj.AssemblyReference.cache
 C:\Users\wave\source\repos\UnitTestProject1\WinFormTest\obj\Debug\WinFormTest.Form1.resources
 C:\Users\wave\source\repos\UnitTestProject1\WinFormTest\obj\Debug\WinFormTest.Properties.Resources.resources
 C:\Users\wave\source\repos\UnitTestProject1\WinFormTest\obj\Debug\WinFormTest.csproj.GenerateResource.cache

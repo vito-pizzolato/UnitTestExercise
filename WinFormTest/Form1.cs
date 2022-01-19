@@ -19,9 +19,16 @@ namespace WinFormTest
 
         public void Somma_Click(object sender, EventArgs e)
         {
-            int a = Convert.ToInt32(tb1.Text);
-            int b = Convert.ToInt32(tb2.Text);
-            textBox3.Text = Convert.ToString(a+b );
+            try
+            {
+                int a = Convert.ToInt32(tb1.Text);
+                int b = Convert.ToInt32(tb2.Text);
+                textBox3.Text = Convert.ToString(a + b);
+            }
+            catch (Exception ex)
+            {
+                throw new ArgumentException("carattere non valido");
+            }
         }
     }
 }

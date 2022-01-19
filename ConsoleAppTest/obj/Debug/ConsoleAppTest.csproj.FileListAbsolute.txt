@@ -4,3 +4,4 @@ C:\Users\wave\source\repos\UnitTestProject1\ConsoleAppTest\bin\Debug\ConsoleAppT
 C:\Users\wave\source\repos\UnitTestProject1\ConsoleAppTest\obj\Debug\ConsoleAppTest.csproj.CoreCompileInputs.cache
 C:\Users\wave\source\repos\UnitTestProject1\ConsoleAppTest\obj\Debug\ConsoleAppTest.exe
 C:\Users\wave\source\repos\UnitTestProject1\ConsoleAppTest\obj\Debug\ConsoleAppTest.pdb
+C:\Users\wave\source\repos\UnitTestProject1\ConsoleAppTest\obj\Debug\ConsoleAppTest.csproj.AssemblyReference.cache

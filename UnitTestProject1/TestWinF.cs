@@ -61,7 +61,7 @@ namespace UnitTestProject1
         #endregion
 
         [TestMethod]
-        public void TestMethod1()
+        public void CheckSommaCorretta()
         {
             //
             // TODO: aggiungere qui la logica del test
@@ -73,7 +73,8 @@ namespace UnitTestProject1
             Assert.AreEqual("3", myForm.textBox3.Text, "somma non corretta");
         }
         [TestMethod]
-        public void TestMethod2()
+        [ExpectedException(typeof(ArgumentException), "carattere non valido")]
+        public void CheckGestioneCaratteri()
         {
             //
             // TODO: aggiungere qui la logica del test
@@ -82,7 +83,6 @@ namespace UnitTestProject1
             myForm.tb1.Text = "a";
             myForm.tb2.Text = "2";
             myForm.Somma_Click(null, null);
-            Assert.AreEqual("3", myForm.textBox3.Text, "caratteri non gestiti");
         }
     }
 }
